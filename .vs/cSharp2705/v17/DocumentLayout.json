@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tecnico\\source\\repos\\cSharp2705\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC938DA-28FA-4AA9-A1FA-6F21F5AF258D}|cSharp2705\\cSharp2705.csproj|C:\\Users\\Tecnico\\source\\repos\\cSharp2705\\csharp2705\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC938DA-28FA-4AA9-A1FA-6F21F5AF258D}|cSharp2705\\cSharp2705.csproj|solutionrelative:csharp2705\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC938DA-28FA-4AA9-A1FA-6F21F5AF258D}|cSharp2705\\cSharp2705.csproj|c:\\users\\tecnico\\source\\repos\\csharp2705\\csharp2705\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADC938DA-28FA-4AA9-A1FA-6F21F5AF258D}|cSharp2705\\cSharp2705.csproj|solutionrelative:csharp2705\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC938DA-28FA-4AA9-A1FA-6F21F5AF258D}|cSharp2705\\cSharp2705.csproj|c:\\users\\tecnico\\source\\repos\\csharp2705\\csharp2705\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ADC938DA-28FA-4AA9-A1FA-6F21F5AF258D}|cSharp2705\\cSharp2705.csproj|solutionrelative:csharp2705\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC938DA-28FA-4AA9-A1FA-6F21F5AF258D}|cSharp2705\\cSharp2705.csproj|C:\\Users\\Tecnico\\source\\repos\\cSharp2705\\csharp2705\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC938DA-28FA-4AA9-A1FA-6F21F5AF258D}|cSharp2705\\cSharp2705.csproj|solutionrelative:csharp2705\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC938DA-28FA-4AA9-A1FA-6F21F5AF258D}|cSharp2705\\cSharp2705.csproj|C:\\Users\\Tecnico\\source\\repos\\cSharp2705\\csharp2705\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC938DA-28FA-4AA9-A1FA-6F21F5AF258D}|cSharp2705\\cSharp2705.csproj|solutionrelative:csharp2705\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC938DA-28FA-4AA9-A1FA-6F21F5AF258D}|cSharp2705\\cSharp2705.csproj|c:\\users\\tecnico\\source\\repos\\csharp2705\\csharp2705\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC938DA-28FA-4AA9-A1FA-6F21F5AF258D}|cSharp2705\\cSharp2705.csproj|solutionrelative:csharp2705\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\cSharp2705\\cSharp2705\\Form1.cs",
+              "RelativeDocumentMoniker": "cSharp2705\\Form1.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\cSharp2705\\cSharp2705\\Form1.cs [Design]",
+              "RelativeToolTip": "cSharp2705\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:55:19.075Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\cSharp2705\\cSharp2705\\Program.cs",
+              "RelativeDocumentMoniker": "cSharp2705\\Program.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\cSharp2705\\cSharp2705\\Program.cs",
+              "RelativeToolTip": "cSharp2705\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T23:00:56.77Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\cSharp2705\\cSharp2705\\Form1.cs",
+              "RelativeDocumentMoniker": "cSharp2705\\Form1.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\cSharp2705\\cSharp2705\\Form1.cs",
+              "RelativeToolTip": "cSharp2705\\Form1.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAewDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T23:03:57.099Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\cSharp2705\\cSharp2705\\Cliente.cs",
+              "RelativeDocumentMoniker": "cSharp2705\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\cSharp2705\\cSharp2705\\Cliente.cs",
+              "RelativeToolTip": "cSharp2705\\Cliente.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAWwB8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T00:31:51.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\cSharp2705\\cSharp2705\\Cliente.cs",
+              "RelativeDocumentMoniker": "cSharp2705\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\cSharp2705\\cSharp2705\\Cliente.cs [Design]",
+              "RelativeToolTip": "cSharp2705\\Cliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T00:31:47.054Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Tecnico\\source\\repos\\cSharp2705\\cSharp2705\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "cSharp2705\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Tecnico\\source\\repos\\cSharp2705\\cSharp2705\\Form1.Designer.cs",
+              "RelativeToolTip": "cSharp2705\\Form1.Designer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T23:03:21.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
